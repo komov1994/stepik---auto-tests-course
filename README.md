@@ -1,2 +1,2 @@
-# stepik---auto-tests-course
+# stepik-selenium
 Домашнее задание по курсу
